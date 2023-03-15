@@ -3,6 +3,8 @@
 My first Flutter project, based on this tutorial: 
 https://codelabs.developers.google.com/codelabs/flutter-codelab-first
 
+![Screenshot](screenshots/flutter-namer-app-screenshot.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
